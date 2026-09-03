@@ -57,7 +57,7 @@ export default function Exercicio5() {
 
   return (
     <>
-      <h1>Lista de Usuários — Exercício 5 Completo</h1>
+      <h1>Lista de Usuários</h1>
       
       
       <StatusAPI carregando={carregando} erro={erro} quantidade={usuarios.length} />
